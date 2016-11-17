@@ -2,7 +2,7 @@
 
 
 typedef struct {
-    int codigo;
+  int codigo;
 	char descricao[100];
 	char marca[80];
 	double valorCompra;
